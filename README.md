@@ -27,11 +27,11 @@ Inquirer is a collection of common interactive command line user interfaces. Inq
 
 # Installation:
 
-To install necessary dependencies, run the following command on the Develop folder:
+To install necessary dependencies, run the following command in your Terminal on the Develop folder:
 
-<npm install inquirer> : this will install Inquirer package
+"npm install inquirer" : this will install Inquirer package
 
-<node app.js> : This will invoke the application
+"node app.js" : This will invoke the application
 
 # Usage:
 
